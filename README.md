@@ -1,8 +1,8 @@
 # Times_Series_Analysis_ARIMA
 
-<img src="https://github.com/Leangonplu/Default_Prediction_for_Loan_Data/blob/main/assets/images.jpg" alt="ML-cover" style="display: block; margin: 0 auto;">
+<img src="https://github.com/Leangonplu/Times_Series_Analysis_ARIMA/blob/main/assets/image.jpg" alt="ML-cover" style="display: block; margin: 0 auto;">
 
-Application for Univariate Time Series with ARIMA: Algorithmic Trading Model for $/£ Exchange Rates (Dataset: YahooFinancials)
+## Application for Univariate Time Series with ARIMA: Algorithmic Trading Model for $/£ Exchange Rates (Dataset: YahooFinancials)
 
 This project focuses on building an algorithmic trading model for analyzing and forecasting $/£ exchange rates using the ARIMA (Autoregressive Integrated Moving Average) model. ARIMA is a statistical model commonly used for time series analysis and forecasting. It combines autoregressive, moving average, and integration components to capture trends, seasonality, and autocorrelation in sequential data.
 
